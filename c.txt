@@ -1,1 +1,3 @@
 Noi dung C
+
+duoc sua boi betta
