@@ -1,7 +1,4 @@
 Noi dung A
 
-<<<<<<< HEAD
 duoc sua boi master
-=======
 duoc sua boi betta
->>>>>>> betta
